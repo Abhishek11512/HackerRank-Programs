@@ -1,10 +1,10 @@
 #tuples
 
-if __name__ == '__main__':
-    n = int(raw_input())
-    integer_list = map(int, raw_input().split())
-    t = tuple(integer_list)
-    print hash(t)
+#if __name__ == '__main__':
+ #   n = int(raw_input())
+  #  integer_list = map(int, raw_input().split())
+   # t = tuple(integer_list)
+    #print hash(t)
 
 #raw_input only works with Python 2
 
